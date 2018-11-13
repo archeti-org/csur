@@ -1,0 +1,3 @@
+[submodule "archeti/csur"]
+	path = archeti/csur
+	url = git@gitlab.com:archeti/csur.git
