@@ -1,3 +1,7 @@
 [submodule "archeti/csur"]
 	path = archeti/csur
 	url = git@gitlab.com:archeti/csur.git
+[submodule "archeti/oca-bank-payment"]
+	path = archeti/oca-bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 11.0
